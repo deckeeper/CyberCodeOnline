@@ -1,35 +1,151 @@
 
 # Update Notes
 
-**CyberCode Online** is currently under an early and heavy development stage, which means many changes and new features are being added every day! That also means many stats are being adjusted all the time. So, if you have anything to suggest, feel free to [create an issue](https://github.com/DexterHuang/CyberCodeOnline/issues), if it is good it will very likely end up in this list.
+**CyberCode Online** is currently under an early and heavy development stage, which means many changes and new features are being added every day! That also means many stats are being adjusted all the time. So, if you have anything to suggest, feel free to [create an issue](https://github.com/DexterHuang/CyberCodeOnline/issues) or [join our discord](https://discord.gg/JREx8xz).
 
-## Contributors:
- * [AdmiralDiemos](https://github.com/danofsatx)
- * [Archibaald](https://github.com/Archibaald-dev)
- * [Arky](https://www.instagram.com/andreiarky)
- * [Blackstormx](https://github.com/blackstormx)
- * [Humboer](https://github.com/stphnhng)
- * [hildjj](https://github.com/hildjj)
- * [Kimi Leta](https://github.com/kimileta)
- * [l33t4ng3l](https://github.com/tinamilford)
- * [levi middleton](https://github.com/levi-middleton)
- * [mr_moe](https://github.com/donburks)
- * [Omnipotent_God](https://github.com/Omnipotent-God)
- * [PotatoMan](https://github.com/PotatoMan145)
- * [RubenVerg](https://github.com/rubenverg)
- * [s3rvant](https://github.com/s3rvant)
- * [Tripplehelix](https://github.com/tripplehelix)
+Fancy helping out with running costs, [buy me a potato](https://www.buymeacoffee.com/cybercodeonline).
 
-If you would like to help to maintain CyberCode Online, please feel free to submit a PR at [our GitHub repo](https://github.com/DexterHuang/CyberCodeOnline).
+## Contributors:  
+
+* [AdmiralDiemos](https://github.com/danofsatx) 
+* [Archibaald](https://github.com/Archibaald-dev) 
+* [Arky](https://www.instagram.com/andreiarky) 
+* [Blackstormx](https://github.com/blackstormx) 
+* [byakkozen](https://github.com/byakkozen)
+* [CelesMeh](https://www.instagram.com/celesmeh) 
+* [CMDR7](https://github.com/cmdr7) 
+* [Deckeeper](https://github.com/deckeeper) 
+* [DexterHuang](https://github.com/DexterHuang)
+* [Humboer](https://github.com/stphnhng) 
+* [hildjj](https://github.com/hildjj) 
+* [Kimi Leta](https://github.com/kimileta) 
+* [l33t4ng3l](https://github.com/tinamilford)
+* [levi middleton](https://github.com/levi-middleton) 
+* [Luako](https://github.com/luako)
+* [mr_moe](https://github.com/donburks) 
+* [mxjoda](https://github.com/mxjoda)
+* [Omnipotent_God](https://github.com/Omnipotent-God)
+* [PotatoMan](https://github.com/PotatoMan145) 
+* [RubenVerg](https://github.com/rubenverg) 
+* [s3rvant](https://github.com/s3rvant) 
+* [Tripplehelix](https://github.com/tripplehelix)
+  
+If you would like to help to maintain CyberCode Online, please feel free to submit a PR at [our GitHub repo](https://github.com/DexterHuang/CyberCodeOnline).  
+  
 #### Need help:
- * ContributeContent.json <-- really need help with this, specially if you are good at creative wording and stuff
- * Tips.md
- * Tutorial.md <-- now replaced with separate files in the tutorial folder and mobile-tutorial folder
+ * ContributeContent.json <-- Really need help with this, specially if you are good at creative wording.  
+ * Tips.md  
+ * mobile-tutorial/*  
+ * tutorial/*  
 
-**remember to add your name in this doc when you create a PR**
+**Remember to add your name in this doc when you create a PR**
 
-## Recent Updates
+## Updates Log
+### **2021/01/21- v0.309**
+ * Increase gang capacity to 16
+ 
+### **2021/01/20- v0.296**
+ * Added street dealer graphic, thanks to [l33t4ng3l](https://github.com/tinamilford) for the awesome art work!
+ * Major battery usage improvement, app should use less resource while idle now
+ 
+### **2021/01/19- v0.296**
+ * Increase item max stack size to 2000
+ * UI update on links page
+ * New CCO Lore "New Age: Children of Enlightenment"
+ 
+### **2021/01/18- v0.296**
+ * Fix `Null` player name show up when its system message on web
+ * You can now upgrade market slot
+ 
+### **2021/01/17- v0.296**
+ * Change "By Me a Coffee" to Patreon
+ * Added placeholder image for mart
+ * Added new progression quest lines
+ * Added more healing items
+ * Over 100+ new sub-locations
+ 
+### **2021/01/16- v0.296**
+ * Added notes into dungeon, you should see random notes (Community Contributed) in dungeons
+ * Added over 150+ new enemies  
+ * You can now encounter "!" in dungeons to read CCO Lore pages and tablets
+ 
+### **2021/01/15- v0.296**
+ * Fix issue with AFK task not getting any loot sometimes
+ * Merged word list into game
+ * Added many city structure, weather and climate themed building prefixes.
+ 
+### **2021/01/14- v0.296**
+ * Merged contributed word list into game 
+ * New dialouge featured for both Weapon Smith and Bank NPC on mobile
+ * Added lock feature, you can lock your item to prevent it from being scrapped or sold to npc accidentally
+ * Major under-the-hood update, item disappearing in transit should be fixed now
+ 
+### **2021/01/11- v0.290**
+ * Updated combat UI on mobile
+ * Added quick slots, you can assign usable item to your quickslot, and can be used with one click during combat (mobile only)
+ 
+### **2021/01/10- v0.283**
+ * Possible fix on dungeon desync issue
+ * Fix backdrop blur effect on ios
+
+### **2021/01/09- v0.283**
+ * Changed logo to new version on mobile login screen
+ * Added review popup
+ * Now its not possible to create chracter with names that has only capitalization difference with other player
+ 
+### **2021/01/08- v0.283**
+ * Player platform icon is now updated
+ * Fix sorting issue in some inventory
+ * Added Healing Multiplier stat, increase amount you heal yourself or your allies, drops on armor rare + 
+ * Healing item can now be used outside combat
+ * Added Market Capacity stat, increases max item can be sold in market, drops on armor rare +
+ * When click on stat in item detail, description text will pop
+ * Added descrptions to all stats
+ * Mobile item detail page minor UI fix
+ * Fix bug related to player market
+ * Now system email when item is being returned from market to inbox will include item names
+ 
+### **2021/01/07- v0.283**
+ * The system will also send you a email when sending a gift
+ * Display hint to update browser when in older broswer such as IE11 or very old Android phone
+ 
+### **2021/01/06- v0.283**
+ * Renamed bank to `Bank of Arasaka`
+ * Added graphic for bank, thanks to [l33t4ng3l](https://github.com/tinamilford) for the awesome art work!
+ * Dungeon names now will go though bad word sensorship :)
+ * Fix duplicated max shield at stat page
+ * Fix chance based scrap
+ * Added back send dungeon invite to global chat
+ * Reduce Medical Tech Part drop rate from scrapping PainAway
+ 
+### **2021/01/05- v0.283** 
+ * Added dungeon listing page, you can now see all public dungeons to join
+ * You may create dungeon with public or private setting
+ * You may create password protected dungeon, to ensure only you friends enters the dungeon
+ 
+### **2021/01/04- v0.276** 
+ * You now can scrap PainAway to Medical Tech Parts 
+
+### **2021/01/03- v0.276** 
+ * Fix issue with iOS app couldnt start (need to download new version from appstore)
+ * Fix iOS swipeback going to broken page
+ 
+### **2021/01/01- v0.276** 
+ * Added image to Weapon Smith on mobile (drawn by [l33t4ng3l](https://github.com/tinamilford))
+ * New Tutorial is added to mobile
+ 
+### **2020/12/31 - v0.275** 
+ * Fix android back button issue
+
+### **2020/12/30 - v0.269**
+ * Now visited door in dungeons will be marked greyed out
+ * Updated the button of update modal
+ * Now the system message for recieving gift will include item amount
+ 
 ### **2020/12/29 - v0.269**
+ * Remove title when in dungeon, reduce chance of having to scroll to view the map
+ * Bunker rename to "Vault"
+ * Now Apple login is supported on web version
  * Fix web version leave for long time will cause lag issue
  * Added max health and max shield display at player detail on mobile
  
